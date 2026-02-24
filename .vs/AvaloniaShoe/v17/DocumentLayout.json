@@ -11,8 +11,32 @@
       "RelativeMoniker": "D:0:0:{5D7EC7CE-DFDE-4501-9844-2E98C02EC54B}|AvaloniaShoe\\AvaloniaShoe.csproj|solutionrelative:avaloniashoe\\views\\pages\\order\\orderdatapage.axaml||{6D5344A2-2FCD-49DE-A09D-6A14FD1B1224}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5D7EC7CE-DFDE-4501-9844-2E98C02EC54B}|AvaloniaShoe\\AvaloniaShoe.csproj|c:\\users\\maria\\source\\repos\\avaloniashoe\\avaloniashoe\\menuwindow.axaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5D7EC7CE-DFDE-4501-9844-2E98C02EC54B}|AvaloniaShoe\\AvaloniaShoe.csproj|solutionrelative:avaloniashoe\\menuwindow.axaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{5D7EC7CE-DFDE-4501-9844-2E98C02EC54B}|AvaloniaShoe\\AvaloniaShoe.csproj|c:\\users\\maria\\source\\repos\\avaloniashoe\\avaloniashoe\\views\\pages\\product\\productdatapage.axaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D7EC7CE-DFDE-4501-9844-2E98C02EC54B}|AvaloniaShoe\\AvaloniaShoe.csproj|solutionrelative:avaloniashoe\\views\\pages\\product\\productdatapage.axaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D7EC7CE-DFDE-4501-9844-2E98C02EC54B}|AvaloniaShoe\\AvaloniaShoe.csproj|c:\\users\\maria\\source\\repos\\avaloniashoe\\avaloniashoe\\views\\controls\\product\\productcontrol.axaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D7EC7CE-DFDE-4501-9844-2E98C02EC54B}|AvaloniaShoe\\AvaloniaShoe.csproj|solutionrelative:avaloniashoe\\views\\controls\\product\\productcontrol.axaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D7EC7CE-DFDE-4501-9844-2E98C02EC54B}|AvaloniaShoe\\AvaloniaShoe.csproj|c:\\users\\maria\\source\\repos\\avaloniashoe\\avaloniashoe\\views\\controls\\order\\orderitemcontrol.axaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D7EC7CE-DFDE-4501-9844-2E98C02EC54B}|AvaloniaShoe\\AvaloniaShoe.csproj|solutionrelative:avaloniashoe\\views\\controls\\order\\orderitemcontrol.axaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D7EC7CE-DFDE-4501-9844-2E98C02EC54B}|AvaloniaShoe\\AvaloniaShoe.csproj|c:\\users\\maria\\source\\repos\\avaloniashoe\\avaloniashoe\\views\\controls\\order\\ordercontrol.axaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D7EC7CE-DFDE-4501-9844-2E98C02EC54B}|AvaloniaShoe\\AvaloniaShoe.csproj|solutionrelative:avaloniashoe\\views\\controls\\order\\ordercontrol.axaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D7EC7CE-DFDE-4501-9844-2E98C02EC54B}|AvaloniaShoe\\AvaloniaShoe.csproj|c:\\users\\maria\\source\\repos\\avaloniashoe\\avaloniashoe\\views\\pages\\order\\orderspage.axaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D7EC7CE-DFDE-4501-9844-2E98C02EC54B}|AvaloniaShoe\\AvaloniaShoe.csproj|solutionrelative:avaloniashoe\\views\\pages\\order\\orderspage.axaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D7EC7CE-DFDE-4501-9844-2E98C02EC54B}|AvaloniaShoe\\AvaloniaShoe.csproj|c:\\users\\maria\\source\\repos\\avaloniashoe\\avaloniashoe\\views\\controls\\order\\ordercontrol.axaml||{6D5344A2-2FCD-49DE-A09D-6A14FD1B1224}",
+      "RelativeMoniker": "D:0:0:{5D7EC7CE-DFDE-4501-9844-2E98C02EC54B}|AvaloniaShoe\\AvaloniaShoe.csproj|solutionrelative:avaloniashoe\\views\\controls\\order\\ordercontrol.axaml||{6D5344A2-2FCD-49DE-A09D-6A14FD1B1224}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D7EC7CE-DFDE-4501-9844-2E98C02EC54B}|AvaloniaShoe\\AvaloniaShoe.csproj|c:\\users\\maria\\source\\repos\\avaloniashoe\\avaloniashoe\\views\\controls\\order\\orderitemcontrol.axaml||{6D5344A2-2FCD-49DE-A09D-6A14FD1B1224}",
+      "RelativeMoniker": "D:0:0:{5D7EC7CE-DFDE-4501-9844-2E98C02EC54B}|AvaloniaShoe\\AvaloniaShoe.csproj|solutionrelative:avaloniashoe\\views\\controls\\order\\orderitemcontrol.axaml||{6D5344A2-2FCD-49DE-A09D-6A14FD1B1224}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,7 +46,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
@@ -31,27 +55,14 @@
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "MenuWindow.axaml.cs",
-              "DocumentMoniker": "C:\\Users\\Maria\\source\\repos\\AvaloniaShoe\\AvaloniaShoe\\MenuWindow.axaml.cs",
-              "RelativeDocumentMoniker": "AvaloniaShoe\\MenuWindow.axaml.cs",
-              "ToolTip": "C:\\Users\\Maria\\source\\repos\\AvaloniaShoe\\AvaloniaShoe\\MenuWindow.axaml.cs",
-              "RelativeToolTip": "AvaloniaShoe\\MenuWindow.axaml.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Title": "ProductDataPage.axaml.cs",
+              "DocumentMoniker": "C:\\Users\\Maria\\source\\repos\\AvaloniaShoe\\AvaloniaShoe\\Views\\Pages\\Product\\ProductDataPage.axaml.cs",
+              "RelativeDocumentMoniker": "AvaloniaShoe\\Views\\Pages\\Product\\ProductDataPage.axaml.cs",
+              "ToolTip": "C:\\Users\\Maria\\source\\repos\\AvaloniaShoe\\AvaloniaShoe\\Views\\Pages\\Product\\ProductDataPage.axaml.cs",
+              "RelativeToolTip": "AvaloniaShoe\\Views\\Pages\\Product\\ProductDataPage.axaml.cs",
+              "ViewState": "AgIAAA8AAAAAZWZmZmYEwCMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-24T05:36:42.548Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "OrderDataPage.axaml.cs",
-              "DocumentMoniker": "C:\\Users\\Maria\\source\\repos\\AvaloniaShoe\\AvaloniaShoe\\Views\\Pages\\Order\\OrderDataPage.axaml.cs",
-              "RelativeDocumentMoniker": "AvaloniaShoe\\Views\\Pages\\Order\\OrderDataPage.axaml.cs",
-              "ToolTip": "C:\\Users\\Maria\\source\\repos\\AvaloniaShoe\\AvaloniaShoe\\Views\\Pages\\Order\\OrderDataPage.axaml.cs",
-              "RelativeToolTip": "AvaloniaShoe\\Views\\Pages\\Order\\OrderDataPage.axaml.cs",
-              "ViewState": "AgIAABYAAAAAAAAAAAAAACQAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-24T05:06:06.592Z",
+              "WhenOpened": "2026-02-24T08:47:30.139Z",
               "EditorCaption": ""
             },
             {
@@ -63,7 +74,96 @@
               "ToolTip": "C:\\Users\\Maria\\source\\repos\\AvaloniaShoe\\AvaloniaShoe\\Views\\Pages\\Order\\OrderDataPage.axaml",
               "RelativeToolTip": "AvaloniaShoe\\Views\\Pages\\Order\\OrderDataPage.axaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2026-02-24T05:06:00.768Z",
+              "WhenOpened": "2026-02-24T08:45:01.008Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "OrderDataPage.axaml.cs",
+              "DocumentMoniker": "C:\\Users\\Maria\\source\\repos\\AvaloniaShoe\\AvaloniaShoe\\Views\\Pages\\Order\\OrderDataPage.axaml.cs",
+              "RelativeDocumentMoniker": "AvaloniaShoe\\Views\\Pages\\Order\\OrderDataPage.axaml.cs",
+              "ToolTip": "C:\\Users\\Maria\\source\\repos\\AvaloniaShoe\\AvaloniaShoe\\Views\\Pages\\Order\\OrderDataPage.axaml.cs*",
+              "RelativeToolTip": "AvaloniaShoe\\Views\\Pages\\Order\\OrderDataPage.axaml.cs*",
+              "ViewState": "AgIAAGEAAAAAAAAAAAAAwHAAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-24T08:43:54.753Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ProductControl.axaml.cs",
+              "DocumentMoniker": "C:\\Users\\Maria\\source\\repos\\AvaloniaShoe\\AvaloniaShoe\\Views\\Controls\\Product\\ProductControl.axaml.cs",
+              "RelativeDocumentMoniker": "AvaloniaShoe\\Views\\Controls\\Product\\ProductControl.axaml.cs",
+              "ToolTip": "C:\\Users\\Maria\\source\\repos\\AvaloniaShoe\\AvaloniaShoe\\Views\\Controls\\Product\\ProductControl.axaml.cs",
+              "RelativeToolTip": "AvaloniaShoe\\Views\\Controls\\Product\\ProductControl.axaml.cs",
+              "ViewState": "AgIAACEAAACAAAAAAAAowAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-24T08:44:26.1Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "OrdersPage.axaml.cs",
+              "DocumentMoniker": "C:\\Users\\Maria\\source\\repos\\AvaloniaShoe\\AvaloniaShoe\\Views\\Pages\\Order\\OrdersPage.axaml.cs",
+              "RelativeDocumentMoniker": "AvaloniaShoe\\Views\\Pages\\Order\\OrdersPage.axaml.cs",
+              "ToolTip": "C:\\Users\\Maria\\source\\repos\\AvaloniaShoe\\AvaloniaShoe\\Views\\Pages\\Order\\OrdersPage.axaml.cs",
+              "RelativeToolTip": "AvaloniaShoe\\Views\\Pages\\Order\\OrdersPage.axaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-24T08:44:06.533Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "OrderItemControl.axaml.cs",
+              "DocumentMoniker": "C:\\Users\\Maria\\source\\repos\\AvaloniaShoe\\AvaloniaShoe\\Views\\Controls\\Order\\OrderItemControl.axaml.cs",
+              "RelativeDocumentMoniker": "AvaloniaShoe\\Views\\Controls\\Order\\OrderItemControl.axaml.cs",
+              "ToolTip": "C:\\Users\\Maria\\source\\repos\\AvaloniaShoe\\AvaloniaShoe\\Views\\Controls\\Order\\OrderItemControl.axaml.cs",
+              "RelativeToolTip": "AvaloniaShoe\\Views\\Controls\\Order\\OrderItemControl.axaml.cs",
+              "ViewState": "AgIAAEYAAAAABAAAAAAVwFAAAABOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-24T08:42:53.602Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "OrderItemControl.axaml",
+              "DocumentMoniker": "C:\\Users\\Maria\\source\\repos\\AvaloniaShoe\\AvaloniaShoe\\Views\\Controls\\Order\\OrderItemControl.axaml",
+              "RelativeDocumentMoniker": "AvaloniaShoe\\Views\\Controls\\Order\\OrderItemControl.axaml",
+              "ToolTip": "C:\\Users\\Maria\\source\\repos\\AvaloniaShoe\\AvaloniaShoe\\Views\\Controls\\Order\\OrderItemControl.axaml",
+              "RelativeToolTip": "AvaloniaShoe\\Views\\Controls\\Order\\OrderItemControl.axaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-02-24T08:42:50.581Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "OrderControl.axaml.cs",
+              "DocumentMoniker": "C:\\Users\\Maria\\source\\repos\\AvaloniaShoe\\AvaloniaShoe\\Views\\Controls\\Order\\OrderControl.axaml.cs",
+              "RelativeDocumentMoniker": "AvaloniaShoe\\Views\\Controls\\Order\\OrderControl.axaml.cs",
+              "ToolTip": "C:\\Users\\Maria\\source\\repos\\AvaloniaShoe\\AvaloniaShoe\\Views\\Controls\\Order\\OrderControl.axaml.cs",
+              "RelativeToolTip": "AvaloniaShoe\\Views\\Controls\\Order\\OrderControl.axaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-24T08:42:34.909Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "OrderControl.axaml",
+              "DocumentMoniker": "C:\\Users\\Maria\\source\\repos\\AvaloniaShoe\\AvaloniaShoe\\Views\\Controls\\Order\\OrderControl.axaml",
+              "RelativeDocumentMoniker": "AvaloniaShoe\\Views\\Controls\\Order\\OrderControl.axaml",
+              "ToolTip": "C:\\Users\\Maria\\source\\repos\\AvaloniaShoe\\AvaloniaShoe\\Views\\Controls\\Order\\OrderControl.axaml",
+              "RelativeToolTip": "AvaloniaShoe\\Views\\Controls\\Order\\OrderControl.axaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-02-24T08:42:32.176Z",
               "EditorCaption": ""
             }
           ]
