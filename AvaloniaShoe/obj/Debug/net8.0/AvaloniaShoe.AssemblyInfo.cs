@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("AvaloniaShoe")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+fbef181c4192d9d0bbdcfa6be352ce4d9c76232e")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+fe1efba2d3d1706afa7f374080a9def8358fb5d2")]
 [assembly: System.Reflection.AssemblyProductAttribute("AvaloniaShoe")]
 [assembly: System.Reflection.AssemblyTitleAttribute("AvaloniaShoe")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

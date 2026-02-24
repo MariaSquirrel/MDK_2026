@@ -223,3 +223,4 @@ C:\Users\Maria\source\repos\AvaloniaShoe\AvaloniaShoe\bin\Debug\net8.0\zh-Hans\M
 C:\Users\Maria\source\repos\AvaloniaShoe\AvaloniaShoe\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
 C:\Users\Maria\source\repos\AvaloniaShoe\AvaloniaShoe\obj\Debug\net8.0\AvaloniaShoe.Properties.Resources.resources
 C:\Users\Maria\source\repos\AvaloniaShoe\AvaloniaShoe\obj\Debug\net8.0\AvaloniaShoe.csproj.GenerateResource.cache
+C:\Users\Maria\source\repos\AvaloniaShoe\AvaloniaShoe\obj\Debug\net8.0\AvaloniaShoe.sourcelink.json
